@@ -18,7 +18,7 @@ Developed on Jan-Feb 2025. JobVista is a job portal developed using the MERN sta
 
 **Database:** MongoDB
 
-**Supporting Tools:** Cloudinary, Mongoose, Postman, JWT
+**Supporting Tools:** Cloudinary, Mongoose, Postman, JWT, Redux
 
 ## Few Screenshots
 
