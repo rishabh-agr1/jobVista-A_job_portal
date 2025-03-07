@@ -22,19 +22,19 @@ Developed on Jan-Feb 2025. JobVista is a job portal developed using the MERN sta
 
 ## Few Screenshots
 
-Home Page
+### Home Page
 ![Image](https://github.com/user-attachments/assets/732a7444-1ddd-4900-9173-ab0623f13b11)
 
 ![Image](https://github.com/user-attachments/assets/a97a10ab-6fc6-481b-9aa0-b74117217b13)
 
-Job Filter Page
+### Job Filter Page
 ![Image](https://github.com/user-attachments/assets/90ae3c6e-61a3-4b4b-9a6a-b68a65f09d52)
 
-Applicants List Page (Recruiter's View)
+### Applicants List Page (Recruiter's View)
 ![Image](https://github.com/user-attachments/assets/f149659c-7127-4a3f-aa56-f767e3f40f86)
 
-Student's Profile Page
+### Student's Profile Page
 ![Image](https://github.com/user-attachments/assets/e2ad23f8-d36a-4c7b-8ce8-1e8dc329b574)
 
-Sign-up Page
+### Sign-up Page
 ![Image](https://github.com/user-attachments/assets/a7b53f44-1516-45ca-95b2-aaf762eb42cf)
